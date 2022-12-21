@@ -1,9 +1,10 @@
-public class JavaInheritanceII {
-    import java.io.*;
+import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
+
+public class JavaInheritanceII {
 
     //Write your code here
     class Arithmetic{
