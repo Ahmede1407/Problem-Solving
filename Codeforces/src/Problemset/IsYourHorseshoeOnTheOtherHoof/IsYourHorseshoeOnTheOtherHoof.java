@@ -27,6 +27,5 @@ public class IsYourHorseshoeOnTheOtherHoof {
         }
 
         System.out.println(minNumberOfHorseShoes);
-        System.out.println(colors);
     }
 }
